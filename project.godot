@@ -20,6 +20,10 @@ config/description="Reviewing game engines and their HTTP capabilities"
 run/main_scene="res://Scenes/MainScene.tscn"
 config/icon="res://icon.png"
 
+[gui]
+
+common/snap_controls_to_pixels=false
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"

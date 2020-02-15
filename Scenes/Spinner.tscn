@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scenes/Spinner.cs" type="Script" id=1]
+
+[node name="Spinner" type="Control"]
+margin_left = 7.14987
+margin_top = 7.14984
+margin_right = 17.1499
+margin_bottom = 17.1498
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+color = Color( 0.784314, 0.623529, 0.611765, 1 )
